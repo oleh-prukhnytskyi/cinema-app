@@ -21,7 +21,7 @@ tickets can be stored.
 * MySql
 * Hibernate
 * Maven
-* Tomcat 9
+* Tomcat 9.0.64
 * Java Servlet API
 * Spring Framework
 
