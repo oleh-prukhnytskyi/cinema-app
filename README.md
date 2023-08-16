@@ -1,8 +1,8 @@
-# 🎬 Cinema-Service 🎬
+# 🎬 Cinema-One 🎬
 
 ### 🌌 Project description:
 ```
-This is simple simulator of cinema service for reservation tickets, that supports registration, 
+This is simple simulator of cinema one for reservation tickets, that supports registration, 
 authentication and CRUD operations. This service allows you to save/delete/update data about 
 the movie hall, movie session, movies, users who have a role, your basket in which orders with 
 tickets can be stored.
@@ -26,7 +26,7 @@ tickets can be stored.
 * Spring Framework
 
 ## 📜 Project architecture:
-The Cinema-Service is based on 3-layer architecture:
+The Cinema-One is based on 3-layer architecture:
 1. Controllers, which handle requests, call services and send responses
 2. Services - there are all business logic
 3. DAO, which handle CRUD operations to database
